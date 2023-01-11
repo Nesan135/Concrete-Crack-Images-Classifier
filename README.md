@@ -10,6 +10,14 @@ Deep learning model that utilizes LSTM to predict new cases of Covid 19.
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 
+## Other Pre-requisites
+
+`pip install pyunpack`
+
+`pip install patool`
+
+`pip install split-folders`
+
 # Model Architecture
 ![Model](?raw=true)
 
