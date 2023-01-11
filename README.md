@@ -19,17 +19,17 @@ Deep learning model that utilizes LSTM to predict new cases of Covid 19.
 `pip install split-folders`
 
 # Model Architecture
-![Model](?raw=true)
+![Model](https://github.com/Nesan135/Concrete-Crack-Images-Classifier/blob/main/images/model.png?raw=true)
 
 # Model Performance
-![Performance](?raw=true)
+![Performance](https://github.com/Nesan135/Concrete-Crack-Images-Classifier/blob/main/images/performance.png?raw=true)
 
-# Prediction vs Actual
-![Predictions]()
+# Tensorboard
+![epoch_accuracy](https://github.com/Nesan135/Concrete-Crack-Images-Classifier/blob/main/images/tensorboard%20accuracy.png?raw=true)
+![epoch_loss](https://github.com/Nesan135/Concrete-Crack-Images-Classifier/blob/main/images/tensorboard%20loss.png?raw=true)
 
-# Tensorboard plots
-![epoch_mape](?raw=true)
-![epoch_loss](?raw=true)
+# Results
+![epoch_loss](https://github.com/Nesan135/Concrete-Crack-Images-Classifier/blob/main/images/results.png?raw=true)
 
 ## References
 <a id="1">[1]</a> 
